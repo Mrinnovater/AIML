@@ -2,7 +2,7 @@
 
 Repository for my Artificial Inteligence and Machine Learning Lab Sessions
 
-# Lab Instruction Sheets
+# Lab Instruction Sheets(for AIML labs)
 1.[Lab-01]
 
 2.[Lab-02]
