@@ -3,13 +3,13 @@
 Repository for my Artificial Inteligence and Machine Learning Lab Sessions
 
 # Lab Instruction Sheets(for AIML labs)
-1.[Lab-01]()
+1.[Lab-01](https://github.com/Mrinnovater/AIML/blob/main/AIML_A1.pdf)
 
-2.[Lab-02]()
+2.[Lab-02](https://github.com/Mrinnovater/AIML/blob/main/AIML_A2.pdf)
 
-3.[Lab-03]()
+3.[Lab-03](https://github.com/Mrinnovater/AIML/blob/main/AIML_A3.pdf)
 
-4.[Lab-04]()
+4.[Lab-04](https://github.com/Mrinnovater/AIML/blob/main/AIML_A4.pdf)
 
 5.[Lab-05](https://github.com/Mrinnovater/AIML/blob/main/AIML_A5..pdf)
 
