@@ -7,6 +7,8 @@ Repository for my Artificial Inteligence and Machine Learning Lab Sessions
 
 3.[Lab-03](https://github.com/Mrinnovater/AIML/blob/main/AIML_LAB-03.ipynb)
 
+4.[Lab-04](https://github.com/Mrinnovater/AIML/blob/main/AIML_LAB04.ipynb)
+
 # STAT_ML LABS
 1.[Lab-01](https://github.com/Mrinnovater/AIML/blob/main/STATML-LAB01.ipynb)
 
